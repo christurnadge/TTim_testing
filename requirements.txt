@@ -1,6 +1,6 @@
+ttim==0.5
 numpy==1.12
 scipy==0.19
 matplotlib==2.0
 numba==0.5
 lmfit==1.0
-ttim==0.4
