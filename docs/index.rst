@@ -3,21 +3,19 @@
 Welcome to the readthedocs_testing documentation!
 =================================================
 
-.. include:: intro.rst
-
-.. include:: requirements.rst
-
 Content
--------
+=======
 
 .. toctree::
-   :caption: Table of Contents
-   :name: mastertoc
+   :maxdepth: 2
+   :caption: Contents
 
-   Home <intro>
-   Requirements <requirements>
-   API <api_toc>
-   Contributors <contributors>
-   Index <indices>
+   intro
+   readthedocs_testing
 
-.. include:: indices.rst
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
