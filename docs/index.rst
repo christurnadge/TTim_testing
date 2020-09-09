@@ -1,7 +1,7 @@
 .. readthedocs_testing documentation master file
 
-Welcome to the readthedocs_testing documentation!
-=================================================
+Welcome to ''readthedocs_testing''s documentation!
+==================================================
 
 Content
 =======

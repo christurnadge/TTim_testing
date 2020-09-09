@@ -1,17 +1,9 @@
-readthedocs_testing package
-===========================
+Documentation
+=================
 
-Submodules
-----------
-
-.. toctree::
-
-   readthedocs_testing._init
-   
-Module contents
----------------
-
-.. automodule:: readthedocs_testing
+The ``clarss`` class
+********************
+.. autoclass:: readthedocs_testing.clarss
     :members:
     :undoc-members:
     :show-inheritance:
